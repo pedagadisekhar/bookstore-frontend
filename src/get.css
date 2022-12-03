@@ -1,0 +1,48 @@
+*{
+    background-color: brown;
+}
+
+.book-block{
+    display: inline-block;
+   margin-left: 10px;
+   border: 1px solid;
+   margin-top: 10px;
+   background-color: aliceblue;
+}
+
+img{
+    height: 250px;
+}
+p{
+    margin-right: 60px;
+}
+.author{
+    background-color: rgb(135, 135, 216);
+    margin-left: 50px;
+}
+.name{
+    background-color: antiquewhite;
+    margin-left: 50px;
+}
+.description{
+    background-color: rgb(229, 36, 197);
+    margin-left: 50px;
+}
+.add-button{
+   
+    height: 40px;
+    width: 110px;
+    background-color: yellow;
+    border: none;
+    margin-left: 60%;
+    margin-top: -20px;
+    border-radius: 10px;
+}
+.delete{
+    height: 40px;
+    width: 110px;
+    background-color: violet;
+    border: none;
+    
+    border-radius: 10px;
+}
